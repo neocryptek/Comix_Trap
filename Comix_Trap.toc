@@ -1,0 +1,8 @@
+## Interface: 30200
+## Title: Comix |r[|cff8080ffIt's a Trap!|r]
+## Notes: Trap sounds for Comix
+## Version: 0.0.1
+## Author: Neocryptek
+## DefaultState: enabled
+## OptionalDeps: Comix
+Trap.lua
