@@ -30,7 +30,8 @@ end
 
 frame:SetScript("OnEvent", eventHandler);
 
---dumb comix uses relative paths...
+--comix uses relative paths...
+--this is ripped straight out of Comix
 function Comix_CallPic2(Image, name)
 	if not Comix_AddOnEnabled then
 		return
