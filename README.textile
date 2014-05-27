@@ -1,3 +1,5 @@
+DISCONTINUED
+
 Comix [It's a Trap!] is an addon for World of Warcraft (WoW).
 
 Adds sound for "traps":http://www.wowhead.com/?search=trap#abilities to "Comix":http://wow.curse.com/downloads/wow-addons/details/comix-the-return.aspx.
